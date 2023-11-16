@@ -12,7 +12,7 @@
 - A rule-based approach to predicting class
 
 ### XGBoost.ipynb
-- A machine learning approach to predicting class using XGBoost
+- A machine learning approach using tabular data to predicting class using XGBoost
 
 ### YOLOv8.ipynb
-- A CNN approach to predicting class using the YOLOv8 architecture
+- A CNN approach using image data to predicting class using the YOLOv8 architecture
